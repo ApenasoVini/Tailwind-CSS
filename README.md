@@ -1,3 +1,3 @@
 <div align="center">  
-<img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg">
+<img src="https://media.graphassets.com/output=format:webp/u7rbedERVKFp7RaHa6gR">
 </div>
